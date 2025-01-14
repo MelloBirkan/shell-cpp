@@ -2,6 +2,7 @@
 #include <string>
 #include <sstream>
 
+
 enum class Command {
     Echo,
     Exit,
